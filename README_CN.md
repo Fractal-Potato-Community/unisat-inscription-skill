@@ -11,7 +11,7 @@
 ## 功能特性
 
 ### 协议规范
-- **BRC-20**: 部署/铸造/转账操作，4字节和5字节 tick，验证规则
+- **BRC-20**: 部署/铸造/转账操作，4字节、5字节和6字节（Fractal）tick，验证规则
 - **Runes**: UTXO 原生模型，Runestone 编码，蚀刻/铸造/转账
 - **Ordinals**: Sat 编号，信封格式，递归铭文，父子关系
 - **CAT20**: Fractal Bitcoin 的 OP_CAT 代币标准
@@ -108,7 +108,7 @@ MIT License - 见 [LICENSE](LICENSE) 文件。
 
 ## 更新日志
 
-### v1.0.0 (2024-12)
+### v1.0.0 (2025-12)
 - 首次发布
 - BRC-20、Runes、Ordinals、CAT20 协议规范
 - Bitcoin 和 Fractal 网络的 UniSat API 文档

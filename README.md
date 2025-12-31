@@ -11,7 +11,7 @@ This skill is contributed by the **Fractal Potato Community**. It includes pract
 ## Features
 
 ### Protocol Specifications
-- **BRC-20**: Deploy/mint/transfer operations, 4-byte and 5-byte ticks, validation rules
+- **BRC-20**: Deploy/mint/transfer operations, 4-byte, 5-byte, and 6-byte (Fractal) ticks, validation rules
 - **Runes**: UTXO-native model, Runestone encoding, etching/mint/transfer
 - **Ordinals**: Sat numbering, envelope format, recursive inscriptions, parent-child
 - **CAT20**: Fractal Bitcoin's OP_CAT-based token standard

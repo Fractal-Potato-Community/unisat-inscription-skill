@@ -104,6 +104,21 @@ Extended ticker length for more token names:
 }
 ```
 
+### 6-byte Tickers (Fractal Network)
+
+On Fractal Bitcoin network, BRC-20 supports 6-byte tickers:
+
+```json
+{
+  "p": "brc-20",
+  "op": "deploy",
+  "tick": "potato",
+  "max": "21000000000000"
+}
+```
+
+**Note:** 6-byte tickers are only valid on Fractal network, not on Bitcoin mainnet.
+
 ### Self-Mint (brc-20-s)
 
 Allow ongoing minting by deployer:
