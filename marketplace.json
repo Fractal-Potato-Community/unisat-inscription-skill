@@ -1,0 +1,39 @@
+{
+  "name": "inscription-formats",
+  "version": "1.0.0",
+  "description": "Bitcoin inscription protocol helper for BRC-20, Runes, Ordinals, CAT20 development with comprehensive UniSat API documentation for both Bitcoin mainnet and Fractal network",
+  "author": "gecko🦎",
+  "repository": "https://github.com/Fractal-Potato-Community/unisat-inscription-skill",
+  "keywords": [
+    "bitcoin",
+    "brc20",
+    "runes",
+    "ordinals",
+    "cat20",
+    "unisat",
+    "fractal",
+    "inscription",
+    "blockchain"
+  ],
+  "skills": [
+    "inscription-formats"
+  ],
+  "triggers": [
+    "BRC-20",
+    "brc20",
+    "Runes",
+    "Ordinals",
+    "inscription",
+    "铭文",
+    "deploy",
+    "mint",
+    "transfer",
+    "tick",
+    "UTXO",
+    "UniSat",
+    "indexer",
+    "API",
+    "CAT20",
+    "Fractal"
+  ]
+}
